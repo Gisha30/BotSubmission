@@ -1,0 +1,8 @@
+package com.bot.msps;
+
+import javax.ws.rs.*;
+
+@Path("/test")
+public class Check {
+
+}
